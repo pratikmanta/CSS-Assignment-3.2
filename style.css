@@ -1,9 +1,7 @@
-
 /*added background color to body element*/
 body {
 	background-color: red;
 }
-
 /*added font color to h1 element*/
 h1 {
 	color: yellow;
